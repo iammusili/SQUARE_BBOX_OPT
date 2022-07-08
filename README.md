@@ -1,4 +1,4 @@
-# SQUARE_BBOX_OPTIMIZATION
+# SQUARE_BBOX_OPT
 Bounding box initialization and optimization for ground target tracking
 
 代码为《无人机对地目标跟踪的初始跟踪框选取和优化》一文的演示代码。
