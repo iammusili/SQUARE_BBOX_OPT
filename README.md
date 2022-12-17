@@ -1,7 +1,7 @@
 # SQUARE_BBOX_OPT
 Bounding box initialization and optimization for ground target tracking
 
-代码为《无人机对地目标跟踪的初始跟踪框选取和优化》一文的演示代码。
+代码为《无人机对地目标跟踪的快速初始化和自适应优化》一文的演示代码。
 作者：李楚为，张志龙，钟平。
 单位：国防科技大学。
 说明：
