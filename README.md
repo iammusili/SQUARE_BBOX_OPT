@@ -22,4 +22,5 @@ windows 10系统；matlab2014b及以上版本。
 	2) 拖动左上角正方形框，并调整大小，使其与感兴趣的目标尽可能接近
 	3) 按“enter”键，等待运行。
 
-
+引用本文:	李楚为, 张志龙, 钟平. 无人机对地目标跟踪的快速初始化和自适应优化[J]. 应用光学, 2023, 44(6): 1332-1342. DOI: 10.5768/JAO202344.0602003
+Citation:	LI Chuwei, ZHANG Zhilong, ZHONG Ping. Bounding box initialization and optimization for ground target tracking in UAV Videos[J]. Journal of Applied Optics, 2023, 44(6): 1332-1342. DOI: 10.5768/JAO202344.0602003
